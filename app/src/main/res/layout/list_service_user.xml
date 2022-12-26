@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:layout_margin="8dp"
+    android:scrollbarSize="4dp">
+
+    <LinearLayout
+        android:layout_width="320dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dp"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:background="@drawable/button_background">
+
+        <com.example.cleanse.utils.FONTTextView2
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="34sp" />
+
+        <com.example.cleanse.utils.FONTTextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp" />
+
+        <com.example.cleanse.utils.FONTTextView
+            android:id="@+id/textView31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp" />
+
+        <com.example.cleanse.utils.FONTTextView
+            android:id="@+id/textView41"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp" />
+
+        <com.example.cleanse.utils.FONTTextView
+            android:id="@+id/textView51"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp" />
+
+        <com.example.cleanse.utils.FONTTextView
+            android:id="@+id/textView61"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp" />
+
+        <com.example.cleanse.utils.FONTTextView
+            android:id="@+id/textView71"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="TextView"
+            android:textSize="1sp"
+            android:visibility="invisible" />
+
+        <com.example.cleanse.utils.FONTButton
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorThemePastel"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:text="Order Service"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

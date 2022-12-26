@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Cleanse</string>
+
+    <!--For Registration-->
+    <string name="enter_first_name">Please enter first name.</string>
+    <string name="enter_last_name">Please enter last name.</string>
+    <string name="enter_email">Please enter email.</string>
+    <string name="enter_password">Please enter password.</string>
+    <string name="reenter_password">Please enter confirm password.</string>
+    <string name="mismatch">Password and confirm password does not match.</string>
+    <string name="enter_phone">Please enter phone number.</string>
+
+    <string name="hint_last_name">Last name</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_email_id">Email ID</string>
+    <string name="hint_mobile_number">Phone Number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <!--END-->
+
+    <!--For Registration Service-->
+    <string name="post_service">POST SERVICE</string>
+
+    <string name="er_post_date">Please enter date</string>
+    <string name="er_post_time">Please enter time</string>
+    <string name="er_post_price">Please enter price</string>
+    <string name="er_post_type">Please enter type</string>
+    <string name="er_post_duration_hour">Please enter duration (hour)</string>
+    <string name="er_post_duration_minutes">PLease enter duration (minutes)</string>
+
+    <string name="post_date">Date</string>
+    <string name="post_time">Time</string>
+    <string name="post_price">Price</string>
+    <string name="post_type">Type</string>
+    <string name="post_duration_hour">Duration (hour)</string>
+    <string name="post_duration_minutes">Duration (minutes)</string>
+    <!--END-->
+
+    <!--For Survey-->
+    <string name="ques1">How Frequent Did You Clean Your House?</string>
+    <string name="ques2">When Was The Last Time You Clean Your House?</string>
+    <string name="ques3">Do You Recently Host an Event at Your House?</string>
+    <string name="ques4">Do You Frequently Clean Hard Places at Your House?</string>
+
+    <string name="rad1.1">Daily</string>
+    <string name="rad1.2">Twice a Week</string>
+    <string name="rad1.3">Once a Month</string>
+
+    <string name="rad2.1">This Week</string>
+    <string name="rad2.2">This Month</string>
+    <string name="rad2.3">I Lost Cout</string>
+
+    <string name="rad3.1">No</string>
+    <string name="rad3.2">Yes</string>
+
+    <string name="rad4.1">No</string>
+    <string name="rad4.2">Yes</string>
+
+    <string name="survey_success">Survey Done, Your Result is Out</string>
+    <!--END-->
+
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+
+
+    <string name="btn_lbl_login">Login</string>
+
+    <string name="register"><u>Register</u></string>
+
+
+    <string name="create_account">CREATE ACCOUNT</string>
+
+    <string name="btn_lbl_register">Register</string>
+    <string name="cleaner_reg">Register as a Cleaner</string>
+
+    <string name="login"><u>Login</u></string>
+
+
+    <string name="please_wait">Please Wait...</string>
+    <string name="register_success">You are registered successfully.</string>
+
+    <string name="title_survey">FILL THE SURVEY</string>
+
+
+    <string name="btn_submit">Submit Survey</string>
+
+
+    <!--For Profile-->
+    <string name="pro_title">Profile</string>
+    <string name="pro_title_over">User Profile Overview</string>
+    <string name="pro_name">Full Name</string>
+    <string name="btn_lougout">Log Out</string>
+    <string name="btn_oredernow">Order Now</string>
+    <string name="info">Your are Recomended to Order Deep Clean if Score is more than 6.</string>
+
+
+    <string name="deepClean">Your are Recomended to Order Deep Clean.</string>
+    <string name="basicClean">Your are Recomended to Order Basic Clean.</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+
+    <string name="title_post">My Post</string>
+    <string name="title_order">My Order</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+</resources>

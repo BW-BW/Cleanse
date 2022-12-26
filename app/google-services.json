@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124109275116",
+    "project_id": "cleanseassignment",
+    "storage_bucket": "cleanseassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124109275116:android:260995bb947e8a605c0ac9",
+        "android_client_info": {
+          "package_name": "com.example.android.cleanse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124109275116-u9pr0uet5jl8k1f97tu35439ele00tdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA76Kg99VTOXmjMN16oCvHNXlLELCIW0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124109275116-u9pr0uet5jl8k1f97tu35439ele00tdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
